@@ -4,5 +4,3 @@ node_identifier: wildmouse--example-001
 platform:
   - Docker
 data_sources:
-  - name: Example
-    url: https://example.com
