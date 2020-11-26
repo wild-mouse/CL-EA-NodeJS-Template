@@ -1,6 +1,6 @@
 name: Example
 description: An example adapter that does something.
-node_identifier: wildmouse--example-001
+node_identifier: wildmouse--example-002
 platform:
   - Docker
 data_sources:
